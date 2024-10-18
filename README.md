@@ -1,3 +1,4 @@
 Demonstration Maquette Design
 
-![image](https://github.com/user-attachments/assets/fb066828-0afe-4885-adca-4b995d231260)
+![image](https://github.com/user-attachments/assets/6575be9b-be2b-42cb-96e6-c2d788d150bf)
+
